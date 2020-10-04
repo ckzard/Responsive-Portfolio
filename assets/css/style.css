@@ -21,4 +21,7 @@
     border: 1px solid red;
   }
 
-  
+  img {
+    float: left;
+    padding: 20px;
+  }
