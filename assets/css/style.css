@@ -26,7 +26,7 @@ html {
   h2 {
     font-family: Georgia, Times, "Times New Roman", serif;
     font-weight: bolder;
-    color: seagreen;
+    color: rgb(74, 170, 165);
   }
 
 [class*="col-"] {
@@ -36,6 +36,11 @@ html {
   }
 
   img {
+    float: left;
+    padding: 20px;
+  }
+
+  .profile {
     float: left;
     padding: 20px;
     width: 300px;
