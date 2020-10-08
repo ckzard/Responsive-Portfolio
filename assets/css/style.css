@@ -4,16 +4,25 @@
 
   nav {
     text-align: left;
+    margin-bottom: 50px;
   }
 
   .navbar-brand {
     color: white;
   }
 
+  body {
+    background-color: lightgrey;
+  }
+
+  main {
+    background-color: white;
+  }
+
 [class*="col-"] {
     float: left;
     padding: 15px;
-    border: 1px solid salmon;
+    border-top: 1px solid lightgray;
   }
 
   img {
