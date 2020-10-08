@@ -2,6 +2,10 @@
     box-sizing: border-box;
   }
 
+html {
+  overflow-y: scroll;
+}
+
   nav {
     text-align: left;
     margin-bottom: 50px;
@@ -17,6 +21,12 @@
 
   main {
     background-color: white;
+  }
+
+  h2 {
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-weight: bolder;
+    color: seagreen;
   }
 
 [class*="col-"] {
