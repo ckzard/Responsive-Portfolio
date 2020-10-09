@@ -14,6 +14,7 @@ html {
 
   .navbar-brand {
     color: white;
+    font-family: Georgia, Times, "Times New Roman", serif;
   }
 
   body {
@@ -23,6 +24,7 @@ html {
   main {
     background-color: white;
     margin-bottom: 150px;
+    box-shadow: 5px 10px #afafaf;
   }
 
   h2 {
