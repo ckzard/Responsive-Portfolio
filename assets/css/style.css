@@ -23,10 +23,11 @@ html {
   .navbar-brand {
     color: white;
     font-family: Georgia, Times, "Times New Roman", serif;
+    padding: 10px;
   }
 
   body {
-    background-color: lightgrey;
+    background-color: lightgrey !important;
   }
 
   main {
@@ -55,7 +56,7 @@ html {
   .profile {
     float: left;
     padding: 20px;
-    width: 300px;
+    width: 250px;
     height: 350px;
   }
 
@@ -78,6 +79,7 @@ html {
     color: rgb(74, 170, 165);
     text-decoration: none;
   }
+
   .row::after {
     content: "";
     clear: both;
