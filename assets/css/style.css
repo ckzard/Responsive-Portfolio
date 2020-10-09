@@ -1,7 +1,15 @@
 * {
     box-sizing: border-box;
   }
-  a { color: inherit; }
+  a { 
+    /* color: inherit; */
+    color: rgb(74, 170, 165);
+    text-decoration: none;
+  }
+
+  a:hover {
+    box-shadow: 1px 2px #afafaf;
+  }
 
 html {
   overflow-y: scroll;
@@ -67,6 +75,8 @@ html {
   .fab {
     font-size: x-large;
     bottom: 20px;
+    color: rgb(74, 170, 165);
+    text-decoration: none;
   }
   .row::after {
     content: "";
