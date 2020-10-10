@@ -1,3 +1,4 @@
+/* Overall styling of page */
 * {
     box-sizing: border-box;
   }
@@ -71,9 +72,7 @@ html {
     bottom: 0;
     position: fixed;
     width: 100%;
-    /* Set the fixed height of the footer here */
     height: 125px;
-    /* line-height: 60px;  */
     color: rgb(74, 170, 165);
   }
 
@@ -83,7 +82,7 @@ html {
     color: rgb(74, 170, 165);
     text-decoration: none;
   }
-
+/* Clear fix for rows */
   .row::after {
     content: "";
     clear: both;
