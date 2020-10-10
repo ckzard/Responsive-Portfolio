@@ -11,7 +11,7 @@ Link to page : https://ckzard.github.io/Responsive-Portfolio/
 
 ![Portfolio page](/assets/images/Portfolio-screen.png)
 
-**The contact page currently has limited functionality, thus information submitted goes nowhere. However it can be updated to have form submitted and information emailed.**
+**The contact page currently has limited functionality, thus information submitted goes nowhere. However it can be updated to have the form submitted and information emailed.**
 
 ![Contact page](/assets/images/Contact-us.png)
 
