@@ -10,21 +10,24 @@ html {
   overflow-y: scroll;
 }
 
+/* Header / Navbar styling begins here */
   nav {
     text-align: left;
     margin-bottom: 50px;
   }
 
   .navbar-brand {
-    color: white;
+    color: white !important;
     font-family: Georgia, Times, "Times New Roman", serif;
     padding: 10px;
+    background-color: rgb(74, 170, 165);
   }
 
   .nav-item {
     color: gray;
   }
 
+  /* Main content of each page begins here */
   body {
     background-color: lightgrey !important;
   }
@@ -58,6 +61,8 @@ html {
     width: 250px;
     height: 350px;
   }
+
+  /* Bottom section (footer) and aspects within are styled here */
 
   .footer {
     background-color: rgb(102, 102, 102);
